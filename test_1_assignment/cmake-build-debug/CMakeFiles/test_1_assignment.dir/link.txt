@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/test_1_assignment.dir/main.cpp.o CMakeFiles/test_1_assignment.dir/DynamicArray.cpp.o CMakeFiles/test_1_assignment.dir/Assignment.cpp.o CMakeFiles/test_1_assignment.dir/Service.cpp.o CMakeFiles/test_1_assignment.dir/UI.cpp.o -o test_1_assignment 
